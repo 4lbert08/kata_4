@@ -9,10 +9,10 @@ public class CsvDinosaurDeserializer implements DinosaurDeserializer{
     }
 
     private Dinosaur deserialize(String[] fields) {
-        return new Dinosaur(fields[0],fields[1],periodDdeserializer(fields[2].split(" ")),fields[5]);
+        return new Dinosaur(fields[0],fields[1],periodDeserializer(fields[2].split(" ")),fields[5]);
     }
 
-    private String periodDdeserializer(String[] fields) {
+    private String periodDeserializer(String[] fields) {
         return fields[0] + fields[1];
     }
 }
