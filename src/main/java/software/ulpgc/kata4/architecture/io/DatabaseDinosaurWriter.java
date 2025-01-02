@@ -1,6 +1,6 @@
-package software.ulpgc.architecture.io;
+package software.ulpgc.kata4.architecture.io;
 
-import software.ulpgc.architecture.model.Dinosaur;
+import software.ulpgc.kata4.architecture.model.Dinosaur;
 
 import java.io.File;
 import java.io.IOException;

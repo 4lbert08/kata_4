@@ -1,4 +1,4 @@
-package software.ulpgc.architecture.ui;
+package software.ulpgc.kata4.architecture.ui;
 
 import java.io.File;
 

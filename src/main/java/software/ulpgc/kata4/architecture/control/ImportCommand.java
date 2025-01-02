@@ -1,8 +1,8 @@
-package software.ulpgc.architecture.control;
+package software.ulpgc.kata4.architecture.control;
 
-import software.ulpgc.architecture.io.*;
-import software.ulpgc.architecture.model.Dinosaur;
-import software.ulpgc.architecture.ui.ImportDialog;
+import software.ulpgc.kata4.architecture.io.*;
+import software.ulpgc.kata4.architecture.model.Dinosaur;
+import software.ulpgc.kata4.architecture.ui.ImportDialog;
 
 import java.io.File;
 import java.io.IOException;

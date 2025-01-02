@@ -1,7 +1,7 @@
-package software.ulpgc.app;
+package software.ulpgc.kata4.app;
 
-import software.ulpgc.architecture.control.ImportCommand;
-import software.ulpgc.architecture.ui.ImportDialog;
+import software.ulpgc.kata4.architecture.control.ImportCommand;
+import software.ulpgc.kata4.architecture.ui.ImportDialog;
 
 import java.io.File;
 
